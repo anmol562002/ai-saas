@@ -2,7 +2,7 @@
 
 ---
 
-BabaGEN
+AI-SAAS
 
 Welcome to `AI-SAAS`, a comprehensive suite of AI-powered tools that encompass text generation, image creation, video production, music composition, and even code generation. This project is built with Next.js, Tailwind CSS, Stripe for payments, Clerk for authentication, ensuring full responsiveness, and implementing API rate limiting for optimal performance.
 
@@ -89,7 +89,7 @@ Direct Database Access: Fetch data in server React components without an API.
 
 ## Contact
 
-For inquiries or support, please contact `jainarihant.aj20@gmail.com`.
+For inquiries or support, please contact `jainanmol200256@gmail.com`.
 
 ---
 
