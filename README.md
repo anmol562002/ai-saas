@@ -61,7 +61,7 @@ Direct Database Access: Fetch data in server React components without an API.
 
 1. Clone the repository:
    ```
-   git clone https://github.com/arihantJ24/ai-assisstant.git
+   https://github.com/anmol562002/ai-saas.git
    ```
 
 2. Install dependencies:
