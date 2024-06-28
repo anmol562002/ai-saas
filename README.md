@@ -4,7 +4,7 @@
 
 BabaGEN
 
-Welcome to `BabaGen`, a comprehensive suite of AI-powered tools that encompass text generation, image creation, video production, music composition, and even code generation. This project is built with Next.js, Tailwind CSS, Stripe for payments, Clerk for authentication, ensuring full responsiveness, and implementing API rate limiting for optimal performance.
+Welcome to `AI-SAAS`, a comprehensive suite of AI-powered tools that encompass text generation, image creation, video production, music composition, and even code generation. This project is built with Next.js, Tailwind CSS, Stripe for payments, Clerk for authentication, ensuring full responsiveness, and implementing API rate limiting for optimal performance.
 
 ## Features
 
